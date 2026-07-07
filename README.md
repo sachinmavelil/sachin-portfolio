@@ -1,36 +1,176 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sachin M V | Data Science & AI Portfolio
 
-## Getting Started
+🌐 **Live Website:**
+https://sachinmavelil.vercel.app
 
-First, run the development server:
+## About
+
+Welcome to my portfolio website.
+
+I am a Data Science professional with an engineering background, specializing in:
+
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Data Analysis
+* Engineering-driven AI solutions
+
+This portfolio showcases my projects, technical skills, professional experience, certifications, and academic background.
+
+---
+
+## Featured Projects
+
+### Malayalam NLP Assistant
+
+A multilingual Natural Language Processing application for Malayalam and English language processing.
+
+**Technologies:**
+
+* Python
+* Hugging Face Transformers
+* MarianMT
+* BERT
+* NLP
+* Gradio
+
+---
+
+### Rider Assistance Using Smartphones
+
+A smartphone-based rider assistance framework using sensor data analysis for road safety applications.
+
+**Technologies:**
+
+* Python
+* Data Analysis
+* GPS Data
+* Sensor Data Processing
+
+---
+
+### OLTC Control Using Arduino-Based AVR Circuit
+
+An embedded systems project implementing automatic voltage regulation using On Load Tap Changer principles.
+
+**Technologies:**
+
+* Arduino
+* Embedded C
+* Voltage Control
+* Electrical Systems
+
+---
+
+### Microcontroller-Based Temperature Controller
+
+A feedback-based temperature control system using microcontroller programming and sensor data.
+
+**Technologies:**
+
+* Embedded C
+* Microcontrollers
+* Sensors
+* Control Systems
+
+---
+
+## Technical Skills
+
+### Programming
+
+* Python
+* C
+* C++
+* SQL
+
+### Data Science & AI
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Data Analysis
+* Data Visualization
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Kaggle
+* Hugging Face
+* Jupyter Notebook
+* Google Colab
+
+---
+
+## Professional Experience
+
+* Shift Engineer – Electrical Power Systems
+* Freelance Content Researcher
+* Research Analyst
+* Trainee Electrical Engineer
+
+---
+
+## Certifications & Professional Learning
+
+Completed certifications and professional learning programs in:
+
+* Artificial Intelligence
+* Data Analytics
+* Machine Learning
+* Cloud Computing
+* IoT
+* Research Methodology
+* Statistics
+* Engineering and Emerging Technologies
+
+---
+
+## Local Development
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sachinmavelil/sachin-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This portfolio is deployed using Vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Live URL:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+https://sachinmavelil.vercel.app
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Connect With Me
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* LinkedIn: https://www.linkedin.com/in/sachinmavelil/
+* GitHub: https://github.com/sachinmavelil
+* Kaggle: https://www.kaggle.com/sachinmavelil
+* Hugging Face: https://huggingface.co/sachinmavelil
+* LeetCode: https://leetcode.com/u/sachinmavelil/

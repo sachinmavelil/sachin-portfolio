@@ -19,6 +19,12 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://sachinmavelil.vercel.app"),
 
+verification: {
+
+  google: "415_gSn65OKRg6Ei06hX7OpVNJhk5snlOHMRtyjV-ZY",
+
+},
+
   title: "Sachin M V | Data Science & AI Portfolio",
 
   description:

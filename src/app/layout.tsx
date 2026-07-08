@@ -17,11 +17,12 @@ const geistMono = Geist_Mono({
 
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://sachinmavelil.vercel.app"),
 
   title: "Sachin M V | Data Science & AI Portfolio",
 
   description:
-    "Portfolio of Sachin M V, a Data Science professional specializing in Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analysis, and engineering-driven solutions.",
+    "Portfolio of Sachin M V showcasing Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, Data Analysis, engineering experience, and professional projects.",
 
   keywords: [
     "Sachin M V",
@@ -31,9 +32,8 @@ export const metadata: Metadata = {
     "Natural Language Processing",
     "Computer Vision",
     "Python",
-    "Hugging Face",
-    "Data Analyst",
     "AI Engineer",
+    "Data Analyst",
   ],
 
   authors: [
@@ -43,14 +43,41 @@ export const metadata: Metadata = {
   ],
 
   openGraph: {
+    title: "Sachin M V | Data Science & AI Portfolio",
+
+    description:
+      "Explore AI, Machine Learning, Data Science projects, engineering experience, certifications, and professional learning.",
+
+    url: "https://sachinmavelil.vercel.app",
+
+    siteName: "Sachin M V Portfolio",
+
+    images: [
+      {
+        url: "/opengraph-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Sachin M V Data Science and AI Portfolio",
+      },
+    ],
+
+    locale: "en_US",
+
+    type: "website",
+  },
+
+
+  twitter: {
+    card: "summary_large_image",
 
     title: "Sachin M V | Data Science & AI Portfolio",
 
     description:
-      "Data Science professional specializing in AI, Machine Learning, NLP, Data Analysis, and engineering solutions.",
+      "Data Science, Artificial Intelligence, Machine Learning, NLP, and Computer Vision portfolio.",
 
-    type: "website",
-
+    images: [
+      "/opengraph-image.png",
+    ],
   },
 
 };

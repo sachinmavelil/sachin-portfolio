@@ -73,7 +73,7 @@ export default function Projects() {
 
 
         <h2 className="text-4xl font-bold text-blue-400">
-          Projects
+          Academic Projects
         </h2>
 
 

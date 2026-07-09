@@ -78,9 +78,7 @@ export default function Resume() {
 
           <p className="mt-6 text-sm text-gray-500">
 
-            Resume will be updated regularly with new projects,
-            certifications, and professional achievements.
-
+            This resume reflects my latest projects, certifications, skills, and professional experience.
           </p>
 
 
